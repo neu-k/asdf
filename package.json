@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/neu-k/asdf/issues"
   },
-  "homepage": "https://github.com/neu-k/asdf#readme"
+  "homepage": "https://github.com/neu-k/asdf#readme",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
 }
